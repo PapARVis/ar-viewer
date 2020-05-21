@@ -66,7 +66,7 @@ public class QRCodeAndVuforia : MonoBehaviour
     }
 
     void Update() {
-        //CameraDevice.Instance.SetFocusMode(CameraDevice.FocusMode.FOCUS_MODE_CONTINUOUSAUTO);
+        CameraDevice.Instance.SetFocusMode(CameraDevice.FocusMode.FOCUS_MODE_CONTINUOUSAUTO);
         if (reading) {
             if (QCARoutput != null) {
                 if (updC) {

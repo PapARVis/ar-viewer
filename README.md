@@ -5,7 +5,7 @@ This is an example of the endpoint of **PapARVis Designer** for audiences to vie
 A demo [apk](demo.apk) is built for download.
 
 ## How to use AR Viewer
-1. Scan the QR code on static visualization that is published from **[VegaAR Editor]()** (TODO: link to editor).
+1. Scan the QR code on static visualization that is published from [VegaAR Editor](http://vegaar.hkustvis.org/editor).
 2. Scan the static visualization to view the augemented visualization.
 
 ## Development
